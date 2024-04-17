@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024.04.14 10:48:27.923.pas,C:\Users\m_yan\OneDrive\Документы\Borland Studio Projects\Unit1.pas=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\WordClient.pas</Transaction>
+    <Transaction>2024.04.14 10:48:27.923.dfm,C:\Users\m_yan\OneDrive\Документы\Borland Studio Projects\Unit1.dfm=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\WordClient.dfm</Transaction>
+    <Transaction>2024.04.14 10:48:51.776.pas,C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\WordClient.pas=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\Client.pas</Transaction>
+    <Transaction>2024.04.14 10:48:51.776.dfm,C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\WordClient.dfm=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\Client.dfm</Transaction>
+    <Transaction>2024.04.14 10:48:59.070.bdsproj,C:\Users\m_yan\OneDrive\Документы\Borland Studio Projects\Project1.bdsproj=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p1\WordClient.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

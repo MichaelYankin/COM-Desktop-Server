@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024.04.15 18:16:21.018.pas,C:\Users\m_yan\OneDrive\Документы\Borland Studio Projects\Unit1.pas=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Excel.pas</Transaction>
+    <Transaction>2024.04.15 18:16:21.018.dfm,C:\Users\m_yan\OneDrive\Документы\Borland Studio Projects\Unit1.dfm=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Excel.dfm</Transaction>
+    <Transaction>2024.04.15 18:16:26.220.bdsproj,C:\Users\m_yan\OneDrive\Документы\Borland Studio Projects\Project1.bdsproj=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\ExcelClient.bdsproj</Transaction>
+    <Transaction>2024.04.15 18:29:31.092.pas,C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Excel.pas=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Clientl.pas</Transaction>
+    <Transaction>2024.04.15 18:29:31.092.dfm,C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Excel.dfm=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Clientl.dfm</Transaction>
+    <Transaction>2024.04.15 18:29:37.596.pas,C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Clientl.pas=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Client.pas</Transaction>
+    <Transaction>2024.04.15 18:29:37.596.dfm,C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Clientl.dfm=C:\Users\m_yan\OneDrive\Desktop\МЭИ\VIII Семестр\VIII - ООТ (экзамен)\Лабы\Lab5\p2\Client.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
